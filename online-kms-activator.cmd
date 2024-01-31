@@ -36,9 +36,6 @@ Echo.                    ^|   [4] Check For Script Updates                      
 Echo.                    ^|                                                         ^|
 Echo.                    ^|   [5] Exit                                              ^|
 Echo.                    ^|                                                         ^|
-Echo.                    ^|                                                         ^|
-Echo.                    ^|                  ~~ Saurav Bhandari ~~                  ^|
-Echo.                    ^|            ~~ www.sauravbhandari.com.np ~~              ^|
 Echo.                    ^|_________________________________________________________^|                      
 ECHO.
 choice /C:123456789 /N /M ".                   Enter Your Choice [1,2,3,4,5] : "
