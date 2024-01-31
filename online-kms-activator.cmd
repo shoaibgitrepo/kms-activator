@@ -878,11 +878,6 @@ cls
 echo.
 echo.
 echo.
-echo                             :::::::::::::::::::::::::::::::::::::
-echo                             ::                                 ::
-echo                             ::  Thanks to Saurav Bhandari      ::
-echo                             ::                                 ::
-echo                             :::::::::::::::::::::::::::::::::::::
 echo.
 echo.
 echo Press any key to Exit.
